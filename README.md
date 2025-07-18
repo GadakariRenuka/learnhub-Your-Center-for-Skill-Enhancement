@@ -34,7 +34,7 @@ Welcome to **LearnHub**, an interactive platform designed to empower learners an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Anitha-Chava/learnhub-your-center-for-skill-enhancement.git
+   git clone https://https://github.com/GadakariRenuka/learnhub-Your-Center-for-Skill-Enhancement
    cd learnhub-your-center-for-skill-enhancement
    ```
 

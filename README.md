@@ -192,8 +192,7 @@ This project is licensed under the **MIT License**.
 
 If you have questions, feedback, or wish to collaborate:
 
-- Email: [asadikarthik17@gmail.com]
-- LinkedIn: [https://linkedin.com/in/asadi-karthik]
+- Email: [renukagadakari791@gmail.com]
 - Portfolio: [https://yourportfolio.com]
 
 ---
